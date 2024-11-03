@@ -1,0 +1,1 @@
+gcc -o video video.c -Llib -lavformat -lavcodec -lavutil
